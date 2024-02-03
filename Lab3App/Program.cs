@@ -37,7 +37,7 @@ namespace Lab3App
             {
                 collectable.Board = board;
             }
-
+            
             // Create an empty list to start collecting 
             List<Collectable> collected = new List<Collectable>();
 
